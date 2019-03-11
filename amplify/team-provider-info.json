@@ -1,0 +1,19 @@
+{
+    "mars": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-ome-20190310142714-authRole",
+            "UnauthRoleArn": "arn:aws:iam::619370739213:role/aws-ome-20190310142714-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::619370739213:role/aws-ome-20190310142714-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "aws-ome-20190310142714-deployment",
+            "UnauthRoleName": "aws-ome-20190310142714-unauthRole",
+            "StackName": "aws-ome-20190310142714",
+            "StackId": "arn:aws:cloudformation:us-east-1:619370739213:stack/aws-ome-20190310142714/20a3c310-4362-11e9-8767-0a62acea77ae"
+        },
+        "categories": {
+            "auth": {
+                "cognitodc2148d6": {}
+            }
+        }
+    }
+}

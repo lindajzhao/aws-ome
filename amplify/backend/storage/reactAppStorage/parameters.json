@@ -1,0 +1,13 @@
+{
+    "bucketName": "reactappstorage",
+    "authPolicyName": "s3_amplify_e1d127e8",
+    "unauthPolicyName": "s3_amplify_e1d127e8",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authPermissions": "rw",
+    "unauthPermissions": "rw"
+}
